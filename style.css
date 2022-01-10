@@ -1,5 +1,8 @@
-img {
+.mainpic {
   height: auto;
-  width: 300px;
-  margin: 10px;
+  width: 500px;
+}
+.secondarypic {
+  height: auto;
+  width: 250px;
 }
